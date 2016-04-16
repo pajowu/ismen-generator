@@ -6,6 +6,10 @@
 href="https://t.co/wlSriFhbtK">https://t.co/wlSriFhbtK</a></p>&mdash; treter (@trxyt) <a href="https://twitter.com/trxyt/status/721423691830177796">16. April 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Optionen
+
+Beide Scripte haben die Option `--source`, mit denen zwischen [`wiki_de`](https://de.wikipedia.org/wiki/-ismus), [`wiki_en`](https://en.wikipedia.org/wiki/Glossary_of_philosophy) und [`ism_book`](http://www.ismbook.com/ismlist.html) gewählt werden kann.
+
 ## Beispiel
 
 ```
