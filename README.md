@@ -12,6 +12,8 @@ Beide Scripte haben die Option `--source`, mit denen zwischen [`wiki_de`](https:
 
 ## Beispiel
 
+### wiki_de
+
 ```
 anarcho-amoralismus
 anarcho-stalinismus
@@ -33,4 +35,54 @@ anarcho-impressionismus
 anarcho-zoroastrismus
 anarcho-phänomenalismus
 anarcho-nonkonformismus
+```
+
+### wiki_en
+
+```
+anarcho-vitalism
+anarcho-manichaeism
+anarcho-confucianism
+anarcho-scholasticism
+anarcho-criticism
+anarcho-physicalism
+anarcho-legalism
+anarcho-nativism
+anarcho-asceticism
+anarcho-individualism
+anarcho-extropianism
+anarcho-agnosticism
+anarcho-primitivism
+anarcho-reductionism
+anarcho-syndicalism
+anarcho-agnosticism
+anarcho-postmodernism
+anarcho-externism
+anarcho-réalism
+anarcho-fallibilism
+```
+
+### ism_book
+
+```
+anarcho-immoralism
+anarcho-creationism
+anarcho-sensationalism
+anarcho-illusionism
+anarcho-deconstructionism
+anarcho-representationalism
+anarcho-positivism
+anarcho-epiphenomenalism
+anarcho-perspectivism
+anarcho-incompatibilism
+anarcho-externalism
+anarcho-ascriptivism
+anarcho-statism
+anarcho-skepticism
+anarcho-gnosticism
+anarcho-altruism
+anarcho-falsificationism
+anarcho-egoism
+anarcho-pluralism
+anarcho-anarchism
 ```
